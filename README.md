@@ -1,4 +1,4 @@
-<div style="background-color redee">
+<div style="background-color: red">
 # My C++ labs
 
 ---
