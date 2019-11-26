@@ -2,6 +2,6 @@
 
 ---
 
-| [LR2](https://github.com/KoTuK777/LR/tree/master/LR2) | [LR3](https://github.com/KoTuK777/LR/tree/master/LR3) | [LR4](https://github.com/KoTuK777/LR/tree/master/LR4) | [LR5](https://github.com/KoTuK777/LR/tree/master/LR5) | [LR6](https://github.com/KoTuK777/LR/tree/master/LR6) | [LR7](https://github.com/KoTuK777/LR/tree/master/LR7) | [LR8](https://github.com/KoTuK777/LR/tree/master/LR8) |
+| [LR2](https://github.com/KoTuK777/LR/tree/master/LR2) | [LR3](https://github.com/KoTuK777/LR/tree/master/LR3) | [LR4](https://github.com/KoTuK777/LR/tree/master/LR4) | [LR5](https://github.com/KoTuK777/LR/tree/master/LR5) | [LR6](https://github.com/KoTuK777/LR/tree/master/LR6) | [LR7](https://github.com/KoTuK777/LR/tree/master/LR7) | [LR8](https://github.com/KoTuK777/LR/tree/master/LR8) | [help](https://github.com/KoTuK777/LR/tree/master/help) |
 |-----|-----|-----|-----|-----|-----|-----|
-| Лінійні алгоритми та програми | Алгоритми та програми розгалуженої структури | Циклічні алгоритми та програми | Типові прийоми програмування | Програмування ітераційних циклічних обчислю-вальних процесів | Одновимірні масиви | Багатовимірні масиви |
+| Р’РёСЂР°Р·Рё. РћРїРµСЂР°С‚РѕСЂРё РїСЂРёСЃРІРѕСЋРІР°РЅРЅСЏ. РЎС‚Р°РЅРґР°СЂС‚РЅС–   С„СѓРЅРєС†С–С— | Р›С–РЅС–Р№РЅС– Р°Р»РіРѕСЂРёС‚РјРё С‚Р° РїСЂРѕРіСЂР°РјРё | РђР»РіРѕСЂРёС‚РјРё С‚Р° РїСЂРѕРіСЂР°РјРё СЂРѕР·РіР°Р»СѓР¶РµРЅРѕС— СЃС‚СЂСѓРєС‚СѓСЂРё | Р¦РёРєР»С–С‡РЅС– Р°Р»РіРѕСЂРёС‚РјРё С‚Р° РїСЂРѕРіСЂР°РјРё | РўРёРїРѕРІС– РїСЂРёР№РѕРјРё РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ | РџСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ С–С‚РµСЂР°С†С–Р№РЅРёС… С†РёРєР»С–С‡РЅРёС… РѕР±С‡РёСЃР»СЋ-РІР°Р»СЊРЅРёС… РїСЂРѕС†РµСЃС–РІ | РћРґРЅРѕРІРёРјС–СЂРЅС– РјР°СЃРёРІРё | Р‘Р°РіР°С‚РѕРІРёРјС–СЂРЅС– РјР°СЃРёРІРё | РњРµС‚РѕРґРёС‡РєР° С‚Р° РєРѕРЅСЃРїРµРєС‚Рё |
